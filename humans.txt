@@ -7,7 +7,8 @@
 
 # THANKS
 
-    For all the resources available
+    For all the resources available.
+    Please keep practising the command of git.
 
 # TECHNOLOGY COLOPHON
 
